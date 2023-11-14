@@ -4,7 +4,9 @@
 
 View my full profile & reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/andresbekerman/)
 
-🌱 I’m currently learning NodeJS with [this Udemy course](https://www.udemy.com/course/nodejs-master-class/)
+🤓 I’m currently learning
+ - NodeJS, with [this Udemy course](https://www.udemy.com/course/nodejs-master-class/)
+ - Groovy, with [this Udemy course](https://www.udemy.com/course/apache-groovy/)
 
 <!--
 **abekerman-dev/abekerman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
