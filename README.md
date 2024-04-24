@@ -8,8 +8,8 @@ View my full profile & reach me on [![Linkedin Badge](https://img.shields.io/bad
 - Ultimate AWS Certified Solutions Architect Associate SAA-C03 on [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
  
 ✔️ Done learning:
-- Groovy, with [this Udemy course](https://www.udemy.com/course/apache-groovy/)
-- NodeJS, with [this Udemy course](https://www.udemy.com/course/nodejs-master-class/)
+- Groovy, on [Udemy](https://www.udemy.com/course/apache-groovy/)
+- NodeJS, on [Udemy](https://www.udemy.com/course/nodejs-master-class/)
 
 <!--
 **abekerman-dev/abekerman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
