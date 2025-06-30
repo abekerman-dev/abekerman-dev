@@ -1,6 +1,6 @@
 ## About Me
 
-> Bilingual Software Engineer with 15+ years of experience in the full software development lifecycle for enterprise systems. Proficient in Java, Spring, AWS, Docker, Kubernetes, and CI/CD. Committed to contributing to digital transformation projects and delivering world-class products
+> Bilingual Senior Backend Engineer with 15+ years of experience delivering robust, scalable, high-performance software systems. Skilled in Java, Spring Boot, AWS, Kubernetes, and CI/CD pipelines. Proven track record in leading backend development for greenfield and enterprise projects, optimizing system performance, and mentoring junior engineers. Passionate about digital transformation and building platforms that create real-world value.
 
 View my full profile & reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/andresbekerman/)
 
