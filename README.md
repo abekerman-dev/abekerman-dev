@@ -1,12 +1,12 @@
 ## About Me
 
-> Bilingual (English/Spanish) Senior Backend Engineer with 15+ years of experience designing and delivering scalable, high-performance software systems.
+Bilingual (English/Spanish) Senior Backend Engineer with 15+ years of experience designing and delivering scalable, high-performance software systems.
 
-> Skilled in Java, Spring Boot, AWS, and Kubernetes, with expertise in microservices, distributed systems, and cloud-native architectures.
+Skilled in Java, Spring Boot, AWS, and Kubernetes, with expertise in microservices, distributed systems, and cloud-native architectures.
 
-> Proven record of leading backend development, improving platform performance, and mentoring teams.
+Proven record of leading backend development, improving platform performance, and mentoring teams.
 
-> Passionate about building impactful, mission-driven technology and driving digital transformation.
+Passionate about building impactful, mission-driven technology and driving digital transformation.
 
 > View my full profile & reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/andresbekerman/)
 
