@@ -1,11 +1,18 @@
 ## About Me
 
-> Bilingual Senior Backend Engineer with 15+ years of experience delivering robust, scalable, high-performance software systems. Skilled in Java, Spring Boot, AWS, Kubernetes, and CI/CD pipelines. Proven track record in leading backend development for greenfield and enterprise projects, optimizing system performance, and mentoring junior engineers. Passionate about digital transformation and building platforms that create real-world value.
+> Bilingual (English/Spanish) Senior Backend Engineer with 15+ years of experience designing and delivering scalable, high-performance software systems.
 
-View my full profile & reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/andresbekerman/)
+> Skilled in Java, Spring Boot, AWS, and Kubernetes, with expertise in microservices, distributed systems, and cloud-native architectures.
+
+> Proven record of leading backend development, improving platform performance, and mentoring teams.
+
+> Passionate about building impactful, mission-driven technology and driving digital transformation.
+
+> View my full profile & reach me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/andresbekerman/)
 
 🤓 Currently learning
 - Ultimate AWS Certified Solutions Architect Associate SAA-C03 on [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- Rust, through [rustlings](https://github.com/rust-lang/rustlings/)
  
 ✔️ Done learning:
 - Groovy, on [Udemy](https://www.udemy.com/course/apache-groovy/)
